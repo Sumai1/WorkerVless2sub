@@ -9,7 +9,7 @@ let addresses = [
 	// 'cloudflare.cfgo.cc#优选官方线路',
 	'18.167.20.205:443#HK',
 	'103.30.76.159:8081#HK',
-	'8.210.3.24:2053#HK',
+	'47.76.233.67:2087#HK',
 	'47.76.225.255:2083#HK',
 	'47.76.33.40:2087#HK',
 	'47.236.189.92:8443#SG',
@@ -36,7 +36,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
